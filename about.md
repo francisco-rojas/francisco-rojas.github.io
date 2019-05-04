@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to my blog!.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a Software Developer from Costa Rica. I currently live in Berlin, Germany. Although, I've also lived in Panama and Taiwan. As you can see, I enjoy living in different places, learning different languages (both machine and human) and meeting different cultures.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I've come to realize that living in different countries changes the way you see things, though in order to do so you must first be willing to detach yourself from material things. In exchange, you will get knowledge and relationships which I find out to be much more valuable and lasting. I feel like I have a family in every country I've lived.
 
+This blog is mostly dedicated to sharing technical knowledge related to sofware development. However, I may post a few things about my experiences living abroad or anything interesting I may have learned.
 
-[jekyll-organization]: https://github.com/jekyll
+You can reach me on:
+[LinkedIn][linkedin-profile] /
+[Github][github-profile]
+
+[linkedin-profile]: https://www.linkedin.com/in/josefcorojas/
+[github-profile]: https://github.com/francisco-rojas
